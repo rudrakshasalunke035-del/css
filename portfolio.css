@@ -1,0 +1,42 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    color: black;
+}
+nav{
+    height: 50px;
+    background-color: pink;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.Portfolio{
+    margin-left: 10px;
+}
+.items{
+    margin-left: 40px;
+    margin-right: 40px;
+    text-decoration: none;
+    color: black;
+}
+button{
+    margin-top: 20px;
+    padding: 12px 30px;
+border-radius: 10px 60px 30px;
+background-color: pink;
+font-size: 18px;
+border-radius: 30px;
+cursor: pointer;
+transition: 4ms;
+transform: ;
+}
+img{
+    width:300px; 
+    height: 300px;
+   
+}
+table{
+    box-shadow: 0 0 20px lightblue;
+    background-color:none;
+    padding:50px;
+}
